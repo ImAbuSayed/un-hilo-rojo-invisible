@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Un hilo rojo invisible nos ata esta noche,
+> Pídeme el mundo, te doy un derroche.
+> Sube al asiento, vámonos en el coche,
+> Que yo te quiero de doce a las doce.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
