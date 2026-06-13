@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-hilo-rojo-invisible/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Un hilo rojo invisible](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-hilo-rojo-invisible/) |
+| **Get License** | [Commercial Licensing for Un hilo rojo invisible](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-hilo-rojo-invisible/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `66acce6e83f0dbb536574a243d5cad403b80c116d122a6f4a8c6f0c7f9d6e8ba` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
